@@ -8,7 +8,7 @@ docker run -d -p 8080:8080 -p 50000:50000  huaqiangli/jenkins:dois2018-sz-3
 
 # 访问Jenkins #
 
-http://<your ip>:8080/
+http://\<your ip\>:8080/
 
 登录: admin/jenkins2018
 
