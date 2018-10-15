@@ -2,9 +2,9 @@
 
 # 容器部署（预置插件，配置，demo jobs等） #
 
-docker pull huaqiangli/jenkins:dois2018-sz-2
+docker pull huaqiangli/jenkins:dois2018-sz-3
 
-docker run -d -p 8080:8080 -p 50000:50000  huaqiangli/jenkins:dois2018-sz-2
+docker run -d -p 8080:8080 -p 50000:50000  huaqiangli/jenkins:dois2018-sz-3
 
 # 访问Jenkins #
 
